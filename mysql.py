@@ -1,3 +1,5 @@
+
+# -*- coding: utf-8 -*-
 #导入pymysql的包
 import pymysql
 
